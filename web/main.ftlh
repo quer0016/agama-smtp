@@ -1,7 +1,7 @@
 [#ftl output_format="HTML"]
 <!DOCTYPE html>
 <html lang="en">
-<head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1.0"><title>Email Authentication
+<head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1.0"><title>Autenticación de Correo
 	</title><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2/dist/tailwind.min.css" type="text/css"></head>
 <body>
 
@@ -35,7 +35,7 @@
 			<label for="code" data-i18n="main.email_address" class="label mt-2 ml-1 leading-tighter text-gray-600 text-base cursor-text">
 			</label>
 			<label id="iz57k">Introduce correo email alternativo</label>
-			<input type="email" id="email" name="email" autofocus="" placeholder="name@example.com" value="${email!}" required="" class="w-full rounded px-3 border border-gray-300 pt-2 pb-2">
+			<input type="email" id="email" name="email" autofocus="" placeholder="nombre@correoalternativo.es" value="${email!}" required="" class="w-full rounded px-3 border border-gray-300 pt-2 pb-2">
 		  </div>
 		  <div class="space-y-9">
 			<div class="text-sm flex justify-between items-center">
