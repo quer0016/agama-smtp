@@ -14,16 +14,16 @@
    "otp": {
         "otp_submission_form": "OTP Submission Form",
         "otp_verification": "OTP Verification",
-        "need_verification_msg": "We need to verify it's you",
-        "user_not_registered": "No user is currently associated to",
-        "otp_resent_msg": "We sent you a message again.",
-        "otp_sent_message_frag1": "Please submit the OTP sent to your Email address.",
-        "otp_sent_message_frag2": "Check your inbox - you'll get a message shortly.",
-        "incorrect_otp_entered": "Wrong code entered!",
-        "enter_otp": "Enter OTP",
-        "continue": "Continue",
-        "email_not_received": "Didn't received an email?",
-        "resent_code": "resend code"
+        "need_verification_msg": "Vamos a verificar que eres tu",
+        "user_not_registered": "El usuario no esta registrado a",
+        "otp_resent_msg": "Enviando correo nuevamente.",
+        "otp_sent_message_frag1": "Verifica en tu cuenta de correo la recepción del OTP.",
+        "otp_sent_message_frag2": "Mira tu buzón de correo, en breve debes recibir el OTP.",
+        "incorrect_otp_entered": "¡Código invalido!",
+        "enter_otp": "Ingresa el OTP",
+        "continue": "Continuar",
+        "email_not_received": "¿No has recibido el email?",
+        "resent_code": "Reenviar código"
    },
    "profile": {
         "reg_form": "Registration Form",
