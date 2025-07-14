@@ -30,22 +30,22 @@
 			<div class="relative mb-2">
 			  <label for="givenName" data-i18n="profile.first_name" class="label mt-2 ml-1 leading-tighter text-gray-600 text-base cursor-text">
 			  </label>
-			  <input type="text" id="givenName" name="givenName" autofocus="" placeholder="John" value="${name!}" required="" class="w-full rounded px-3 border border-gray-300 pt-2 pb-2">
+			  <input type="text" id="givenName" name="givenName" autofocus="" placeholder="Nombre" value="${name!}" required="" class="w-full rounded px-3 border border-gray-300 pt-2 pb-2">
 			</div>
 			<div class="relative mb-2">
 			  <label for="lastname" data-i18n="profile.last_name" class="label mt-2 ml-1 leading-tighter text-gray-600 text-base cursor-text">
 			  </label>
-			  <input type="text" id="sn" name="sn" autofocus="" placeholder="Doe" required="" class="w-full rounded px-3 border border-gray-300 pt-2 pb-2">
+			  <input type="text" id="sn" name="sn" autofocus="" placeholder="Apellido" required="" class="w-full rounded px-3 border border-gray-300 pt-2 pb-2">
 			</div>
 			<div class="relative mb-2">
 			  <label for="displayName" data-i18n="profile.display_name" class="label mt-2 ml-1 leading-tighter text-gray-600 text-base cursor-text">
 			  </label>
-			  <input type="text" id="displayName" name="displayName" autofocus="" placeholder="John" required="" class="w-full rounded px-3 border border-gray-300 pt-2 pb-2">
+			  <input type="text" id="displayName" name="displayName" autofocus="" placeholder="Nombre de visualización" required="" class="w-full rounded px-3 border border-gray-300 pt-2 pb-2">
 			</div>
 			<div class="relative mb-2">
 			  <label for="company" data-i18n="profile.company" class="label mt-2 ml-1 leading-tighter text-gray-600 text-base cursor-text">
 			  </label>
-			  <input type="text" id="o" name="o" autofocus="" placeholder="Company's Name" class="w-full rounded px-3 border border-gray-300 pt-2 pb-2">
+			  <input type="text" id="o" name="o" autofocus="" placeholder="Compañia" class="w-full rounded px-3 border border-gray-300 pt-2 pb-2">
 			</div>
 			<div class="relative mb-2">
 			  <label for="country" data-i18n="profile.country" class="label mt-2 ml-1 leading-tighter text-gray-600 text-base cursor-text">
@@ -55,7 +55,7 @@
 			<div class="relative mb-2">
 			  <label for="jansTitle" data-i18n="profile.job_title" class="label mt-2 ml-1 leading-tighter text-gray-600 text-base cursor-text">
 			  </label>
-			  <input type="text" id="jansTitle" name="jansTitle" autofocus="" placeholder="Architect" class="w-full rounded px-3 border border-gray-300 pt-2 pb-2">
+			  <input type="text" id="jansTitle" name="jansTitle" autofocus="" placeholder="Administrador" class="w-full rounded px-3 border border-gray-300 pt-2 pb-2">
 			</div>
 			<div class="relative mb-2">
 			  <label for="occupation" data-i18n="profile.I_am_an" class="label mt-2 ml-1 leading-tighter text-gray-600 text-base cursor-text">
